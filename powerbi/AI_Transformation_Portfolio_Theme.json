@@ -1,0 +1,38 @@
+{
+  "name": "AI Transformation Portfolio Theme",
+  "dataColors": [
+    "#2563EB",
+    "#EA580C",
+    "#0F766E",
+    "#7C3AED",
+    "#64748B",
+    "#0891B2",
+    "#CA8A04",
+    "#DB2777"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#172033",
+  "tableAccent": "#2563EB",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#172033",
+      "fontSize": 14
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#172033",
+      "fontSize": 12
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#475569",
+      "fontSize": 10
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#172033",
+      "fontSize": 28
+    }
+  }
+}
